@@ -14,4 +14,7 @@
     <li>
         Feito entrada de usuário e saída. Usado os métodos <code>end</code> e <code>sep</code>. Adicionando string ao final de print e separador respectivamente.
     </li>
+    <li>
+        Configurando git e github e aprendendo sobre autenticação via Token e SSH
+    </li>
 </ol>
