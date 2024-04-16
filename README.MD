@@ -1,4 +1,4 @@
-# Python AI Backend Developer 
+# Python 🐍 AI 🤖 Backend Developer 💻
 
 ## Primeiro módulo:
 <ol style="font-size:1.1rem;">
