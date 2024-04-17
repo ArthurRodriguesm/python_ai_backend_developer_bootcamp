@@ -18,4 +18,7 @@
         Configurando git e github e aprendendo sobre autenticação via Token e SSH
     </li>
     <li>Criando nova branch <code>git checkout -b [nome-da-branch]</code></li>
+    <li><code>git checkout [nome-da-branch]</code> para selecionar branch desejada</li>
+    <li>Comando para mesclar commit de branch com branch principal <code>git merge [nome-da-branch]</code></li>
+    <li><code>git branch -d [nome-da-branch]</code> para removê-la</li>
 </ol>
