@@ -17,4 +17,5 @@
     <li>
         Configurando git e github e aprendendo sobre autenticação via Token e SSH
     </li>
+    <li>Criando nova branch <code>git checkout -b [nome-da-branch]</code></li>
 </ol>
