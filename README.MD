@@ -17,8 +17,10 @@
     <li>
         Configurando git e github e aprendendo sobre autenticação via Token e SSH
     </li>
+    <li>Use o comando <code>git pull</code> para atualizar o repo local com o repo remoto</li>
     <li>Criando nova branch <code>git checkout -b [nome-da-branch]</code></li>
     <li><code>git checkout [nome-da-branch]</code> para selecionar branch desejada</li>
     <li>Comando para mesclar commit de branch com branch principal <code>git merge [nome-da-branch]</code></li>
     <li><code>git branch -d [nome-da-branch]</code> para removê-la</li>
+    <li><code>git fetch</code> usado para atualizar projeto local com o remoto</li>
 </ol>
